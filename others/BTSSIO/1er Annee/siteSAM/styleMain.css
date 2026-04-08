@@ -1,0 +1,137 @@
+body {
+    background-color: #FDE9E0;
+    font-family: "Inknut Antiqua"
+}
+
+div#logo img {
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    width: 7%;
+    background-color: #FFB38E;
+    z-index: 3;
+}
+
+img#bgImage {
+    position: absolute;
+    mask-image: linear-gradient(to top, rgba(0, 0, 0, 1.0) 5%, transparent 100%);
+    left: 0%;
+    top: 10%;
+    width: 100%;
+}
+
+img#bvn {
+    width: 25%;
+}
+
+div#menu {
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    background-color: #FFB38E;
+    z-index: 2;
+    height: 130px;
+}
+
+div#menu table {
+    padding-top: 2%;
+    margin-left: 600px;
+}
+
+div#contact {
+    background-color: #FFCCB2;
+    text-align: center;
+    position: absolute;
+    top: 180%;
+    left: 0%;
+    width: 100%;
+}
+
+div#ASlogan {
+    position:absolute;
+    text-align: center;
+    left: 40%;
+    top: 30%;
+}
+
+div#nosPrestations {
+    position:absolute;
+    text-align: center;
+    left: 40%;
+    top: 30%;
+}
+
+div#PMassage{
+    position: absolute;
+    top: 90%;
+}
+
+div#PMeditation{
+    position: absolute;
+    top:90%;
+    left: 30%;
+}
+
+div#POngles{
+    position: absolute;
+    top:90%;
+    left: 60%;
+}
+
+div#ProSlogan {
+    position:absolute;
+    text-align: center;
+    left: 45%;
+    top: 30%;
+}
+
+div#texte_bienvenue {
+    margin-top: 800px;
+    margin-left: 500px;
+}
+
+img#bvn {
+    position: absolute;
+    top: 80%;
+}
+
+div#partenaires {
+    position: relative;
+    text-align: center;
+    top: 10%;
+}
+
+img#veafrance {
+    margin-left: 250px;
+    height: 400px;
+}
+
+img#ozalys {
+    height: 400px;
+}
+
+svg#logo_telephone {
+    position: absolute;
+    top: 76%;
+    right: 7%;
+    width: 100%;
+}
+
+svg#logo_mail {
+    position: absolute;
+    top: 45%;
+    right: 6%;
+    width: 100%;
+}
+
+div#texte_produits{
+    position: absolute;
+    top:75%;
+}
+
+div#Prod1{
+    position: absolute;
+    top:90%;
+    left:5%;
+}
